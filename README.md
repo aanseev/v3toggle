@@ -12,7 +12,8 @@ Currently this extension is local only (but the store release is on the way!). T
 
 ## Usage
 Toggle on for v3 and toggle off for v2:
-![Screen for v3toggle](https://github.com/user-attachments/assets/9102b926-0b70-4be2-b1fb-6c88eccb2c6c)
+
+![Screen for v3toggle](https://github.com/user-attachments/assets/edea04ed-795b-468b-ba1c-3cf03a8c2583)
 
 
 ## Contribute

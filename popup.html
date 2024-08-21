@@ -1,27 +1,41 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>My Chrome Extension</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      width: 200px;
-    }
-    button {
-      width: 100%;
-      padding: 10px;
-      margin: 5px 0;
-      background-color: #4CAF50;
-      color: white;
-      border: none;
-      cursor: pointer;
-    }
-  </style>
-</head>
-<body>
-  <h1>Popup</h1>
-  <button id="doSomething">Do Something</button>
 
-  <script src="popup.js"></script>
+<head>
+    <title>V3 Toggle</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            width: 200px;
+        }
+
+        button {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+        .toggle-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>V3 Toggle</h1>
+    <div class="toggle-container">
+        <input type="checkbox" id="toggleV3">
+    </div>
+
+    <script src="popup.js"></script>
+    <script src="utils.js"></script>
 </body>
+
 </html>

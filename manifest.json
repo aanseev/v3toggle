@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "My Chrome Extension",
+    "name": "v3 Toggle",
     "version": "1.0",
-    "description": "A simple Chrome extension example",
+    "description": "Allows to toggle v3 designer for Power Automate",
     "action": {
         "default_popup": "popup.html"
     },
@@ -29,8 +29,8 @@
         "tabs"
     ],
     "icons": {
-        "16": "icons/icon16.png",
-        "48": "icons/icon48.png",
-        "128": "icons/icon128.png"
+        "16": "icons/icon_off_16.png",
+        "48": "icons/icon_off_48.png",
+        "128": "icons/icon_off_128.png"
     }
 }

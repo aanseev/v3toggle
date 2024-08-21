@@ -4,7 +4,7 @@ Toggle once - never worry about it again.
 
 ## Installation
 Currently this extension is local only (but the store release is on the way!). To install it:
-1. Download this repository and unpack it wherever you like
+1. Download the [latest release](https://github.com/aanseev/v3toggle/releases/tag/v1) and unpack it wherever you like
 2. In Chrome, go to Settings -> Extensions -> Manage Extensions
 3. Toggle Developer Mode
 4. Click on "Load Unpacked"
